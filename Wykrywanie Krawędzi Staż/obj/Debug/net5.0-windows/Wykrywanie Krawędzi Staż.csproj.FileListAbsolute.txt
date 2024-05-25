@@ -1,0 +1,18 @@
+C:\Users\agawl\source\repos\Wykrywanie Krawędzi Staż\Wykrywanie Krawędzi Staż\bin\Debug\net5.0-windows\Wykrywanie Krawędzi Staż.exe
+C:\Users\agawl\source\repos\Wykrywanie Krawędzi Staż\Wykrywanie Krawędzi Staż\bin\Debug\net5.0-windows\Wykrywanie Krawędzi Staż.deps.json
+C:\Users\agawl\source\repos\Wykrywanie Krawędzi Staż\Wykrywanie Krawędzi Staż\bin\Debug\net5.0-windows\Wykrywanie Krawędzi Staż.runtimeconfig.json
+C:\Users\agawl\source\repos\Wykrywanie Krawędzi Staż\Wykrywanie Krawędzi Staż\bin\Debug\net5.0-windows\Wykrywanie Krawędzi Staż.runtimeconfig.dev.json
+C:\Users\agawl\source\repos\Wykrywanie Krawędzi Staż\Wykrywanie Krawędzi Staż\bin\Debug\net5.0-windows\Wykrywanie Krawędzi Staż.dll
+C:\Users\agawl\source\repos\Wykrywanie Krawędzi Staż\Wykrywanie Krawędzi Staż\bin\Debug\net5.0-windows\ref\Wykrywanie Krawędzi Staż.dll
+C:\Users\agawl\source\repos\Wykrywanie Krawędzi Staż\Wykrywanie Krawędzi Staż\bin\Debug\net5.0-windows\Wykrywanie Krawędzi Staż.pdb
+C:\Users\agawl\source\repos\Wykrywanie Krawędzi Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\Wykrywanie Krawędzi Staż.csprojAssemblyReference.cache
+C:\Users\agawl\source\repos\Wykrywanie Krawędzi Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\Wykrywanie_Krawędzi_Staż.Form1.resources
+C:\Users\agawl\source\repos\Wykrywanie Krawędzi Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\Wykrywanie Krawędzi Staż.csproj.GenerateResource.cache
+C:\Users\agawl\source\repos\Wykrywanie Krawędzi Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\Wykrywanie Krawędzi Staż.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agawl\source\repos\Wykrywanie Krawędzi Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\Wykrywanie Krawędzi Staż.AssemblyInfoInputs.cache
+C:\Users\agawl\source\repos\Wykrywanie Krawędzi Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\Wykrywanie Krawędzi Staż.AssemblyInfo.cs
+C:\Users\agawl\source\repos\Wykrywanie Krawędzi Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\Wykrywanie Krawędzi Staż.csproj.CoreCompileInputs.cache
+C:\Users\agawl\source\repos\Wykrywanie Krawędzi Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\Wykrywanie Krawędzi Staż.dll
+C:\Users\agawl\source\repos\Wykrywanie Krawędzi Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\ref\Wykrywanie Krawędzi Staż.dll
+C:\Users\agawl\source\repos\Wykrywanie Krawędzi Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\Wykrywanie Krawędzi Staż.pdb
+C:\Users\agawl\source\repos\Wykrywanie Krawędzi Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\Wykrywanie Krawędzi Staż.genruntimeconfig.cache

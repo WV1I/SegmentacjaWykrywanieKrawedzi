@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I2dz5gzvxWhd0GYVmo2j/Tlty9DRSz/PWYTmS5wsVX+i+4wWwBcWnVzogujCLt9oG1wLjsxL2qovAXPy/ntALg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agawl\\source\\repos\\Gimp Staż\\Wykrywanie Krawędzi Staż\\Gimp Staż.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agawl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

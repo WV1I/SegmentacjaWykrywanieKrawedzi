@@ -1,0 +1,17 @@
+C:\Users\agawl\source\repos\Gimp Staż\Wykrywanie Krawędzi Staż\bin\Debug\net5.0-windows\Gimp Staż.exe
+C:\Users\agawl\source\repos\Gimp Staż\Wykrywanie Krawędzi Staż\bin\Debug\net5.0-windows\Gimp Staż.deps.json
+C:\Users\agawl\source\repos\Gimp Staż\Wykrywanie Krawędzi Staż\bin\Debug\net5.0-windows\Gimp Staż.runtimeconfig.json
+C:\Users\agawl\source\repos\Gimp Staż\Wykrywanie Krawędzi Staż\bin\Debug\net5.0-windows\Gimp Staż.runtimeconfig.dev.json
+C:\Users\agawl\source\repos\Gimp Staż\Wykrywanie Krawędzi Staż\bin\Debug\net5.0-windows\Gimp Staż.dll
+C:\Users\agawl\source\repos\Gimp Staż\Wykrywanie Krawędzi Staż\bin\Debug\net5.0-windows\Gimp Staż.pdb
+C:\Users\agawl\source\repos\Gimp Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\Wykrywanie_Krawędzi_Staż.Form1.resources
+C:\Users\agawl\source\repos\Gimp Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\Gimp Staż.csproj.GenerateResource.cache
+C:\Users\agawl\source\repos\Gimp Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\Gimp Staż.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agawl\source\repos\Gimp Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\Gimp Staż.AssemblyInfoInputs.cache
+C:\Users\agawl\source\repos\Gimp Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\Gimp Staż.AssemblyInfo.cs
+C:\Users\agawl\source\repos\Gimp Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\Gimp Staż.csproj.CoreCompileInputs.cache
+C:\Users\agawl\source\repos\Gimp Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\Gimp Staż.dll
+C:\Users\agawl\source\repos\Gimp Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\refint\Gimp Staż.dll
+C:\Users\agawl\source\repos\Gimp Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\Gimp Staż.pdb
+C:\Users\agawl\source\repos\Gimp Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\Gimp Staż.genruntimeconfig.cache
+C:\Users\agawl\source\repos\Gimp Staż\Wykrywanie Krawędzi Staż\obj\Debug\net5.0-windows\ref\Gimp Staż.dll
